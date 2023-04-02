@@ -317,11 +317,12 @@ const Menu=[
     {
 
         id:38,
-        image:"./images1/juice.png",
-        name:"Watermelon Juice",
-        category:"lunch",
-        watch:"https://www.youtube.com/watch?v=SESDVH89Y4U",
+        image:"./images1/f.png",
+        name:"Manchurian Fried Rice",
+        category:"dinner",
+        watch:"https://www.youtube.com/watch?v=HOX3Fi3Lg54",
     },
+    
     {
 
         id:39,
@@ -393,22 +394,6 @@ const Menu=[
         name:"Ghughara",
         category:"breakfast",
         watch:"https://www.youtube.com/watch?v=3njdee0dJIk",
-    },
-    {
-
-        id:48,
-        image:"./images1/kela.png",
-        name:"Kela Methi Bhajiya",
-        category:"dinner",
-        watch:"https://www.youtube.com/watch?v=QDVv8FnidR8",
-    },
-    {
-
-        id:49,
-        image:"./images1/f.png",
-        name:"Manchurian Fried Rice",
-        category:"dinner",
-        watch:"https://www.youtube.com/watch?v=HOX3Fi3Lg54",
     },
     
 
