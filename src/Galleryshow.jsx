@@ -24,7 +24,7 @@ const Galleryshow=()=>{
     <>
     <div>
     <nav className="navbar navbar-expand-lg navbar-light bg-success">
-  <a className="navbar-brand font-weight-bold mr-5" href="/"><img src="./images1/logo.jpg" alt='name' className='i1'></img></a>
+  <a className="navbar-brand font-weight-bold mr-5" href="#><img src="./images1/logo.jpg" alt='name' className='i1'></img></a>
   <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span className="navbar-toggler-icon"></span>
   </button>
@@ -115,7 +115,7 @@ const Galleryshow=()=>{
 
   
   <div className="footer-copyright text-center py-3 text-white">© {year} Copyright:
-    <a className="text-white" href="/"> Ahuja's Recipes</a>
+    <a className="text-white" href="#"> Ahuja's Recipes</a>
   </div>
 
 
